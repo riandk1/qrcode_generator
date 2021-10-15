@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qrcode_generator/static/css/main.fffc99e2.chunk.css",
-    "main.js": "/qrcode_generator/static/js/main.8585fb3e.chunk.js",
-    "main.js.map": "/qrcode_generator/static/js/main.8585fb3e.chunk.js.map",
+    "main.js": "/qrcode_generator/static/js/main.ba372d30.chunk.js",
+    "main.js.map": "/qrcode_generator/static/js/main.ba372d30.chunk.js.map",
     "runtime-main.js": "/qrcode_generator/static/js/runtime-main.fea7b98f.js",
     "runtime-main.js.map": "/qrcode_generator/static/js/runtime-main.fea7b98f.js.map",
     "static/js/2.370b205a.chunk.js": "/qrcode_generator/static/js/2.370b205a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fea7b98f.js",
     "static/js/2.370b205a.chunk.js",
     "static/css/main.fffc99e2.chunk.css",
-    "static/js/main.8585fb3e.chunk.js"
+    "static/js/main.ba372d30.chunk.js"
   ]
 }
